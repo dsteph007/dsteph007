@@ -1,5 +1,5 @@
 ## Hi there 👋
-- How to reach Me: www.linkedin.com/in/
+
 david-stephen-data-analyst
 ## You are connecting with David Stephen
 
@@ -14,3 +14,5 @@ david-stephen-data-analyst
   
 - HE/HIM
 
+- How to reach Me: www.linkedin.com/in/
+david-stephen-data-analyst
