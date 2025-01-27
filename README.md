@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- How to reach Me: www.linkedin.com/in/
+david-stephen-data-analyst
 ## You are connecting with David Stephen
 
 ### I am a Data Analyst & I love Data and Inquisitive about Data 
