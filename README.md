@@ -11,5 +11,5 @@
 - I’m looking forward to share Ideas, knowledge gap among experts in Data Science around the world.
 - Ask me about Data collection, cleaning,analyzing,visualization and presentation of Data.
   
-- How to reach Me: www.linkedin.com/in/
-david-stephen-data-analyst
+- How to reach Me: www.linkedin.com/in/DavidStephenTheDataAnalyst
+
